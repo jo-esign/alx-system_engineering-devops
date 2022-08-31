@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr--r-- 1 root root 59
+0x00-shell_basics "$(realpath $0)"
