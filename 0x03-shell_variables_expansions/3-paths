@@ -1,2 +1,2 @@
 #!/bin/bash
-find /action | wc -l
+ls PATH | wc -l
