@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls)
+paste - - | cut -f 1
