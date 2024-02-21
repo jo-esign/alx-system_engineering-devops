@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 # This bashscript uses ssh to connect to server using private key ~/.ssh/school
+eval $("ssh-agent")
+ssh-add ~/.ssh/school 
 
 
-ssh -i ~/.ssh/school ubuntu@100.26.158.18
+ssh ubuntu@54.234.39.98
