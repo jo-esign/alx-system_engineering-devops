@@ -32,4 +32,4 @@ Note that in response to this error, I wrote a Puppet manifest 0-strace_is_your_
 
 But of course, it will never occur again, because we're programmers, and we never make errors! 😉
 
-This postmortem was from a certain individual, and story so much resonates with what I faced myself. In the course of my journey, I have grown so open to the ups and downs of Software Engineering! Ha ha!
+This postmortem was from a certain individual, and story so much resonates with what I faced myself. In the course of my journey, I have grown to the turbulence in alx software engineering
